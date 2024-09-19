@@ -1,5 +1,3 @@
-## Hola a todos 👋, soy Noelia Mena y en la actualidad soy estudiante de 2 año de Desarrollo de aplicaciones web en el IES Infanta Elena, aquuí podrás ver algunos de los trabajos realizados en la clase de JavaScript.
-
 ![Ilustración de diseño de aplicaciones y desarrollo web ](https://img.freepik.com/vector-premium/ilustracion-diseno-aplicaciones-desarrollo-web-sobre-fondo-rosa_145666-1338.jpg?w=740)
 
 
